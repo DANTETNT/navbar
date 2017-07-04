@@ -76,9 +76,22 @@ body {
     line-height: 30px;
 }
 
+/* this chnage the navbar item list */
 .navbar-default .navbar-nav > li > a {
     color: #121f48;
 }
+
+/*this change the navbar dropdown menu color */
+.navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: #F8F8F8;
+    
+}
+
+
+
+
+
+
 
 
 /* CUSTOMIZE THE CAROUSEL
